@@ -1,3 +1,6 @@
+CS 838 Data Science
+=====================
+
 Group Members
 ---------------------
 * [Ankit Maharia](https://www.linkedin.com/in/ankitmaharia/)
