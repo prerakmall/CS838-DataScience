@@ -49,12 +49,3 @@ Use
 `:ChangeInsideSurrounding` or `<leader>ci` will remove the contents of the innermost 'surrounding', leaving you in insert mode.
 
 `:ChangeAroundSurrounding` or `<leader>cas` will remove the entire text object, including the 'surrounding' characters, leaving you in insert mode.
-
-Installation
-------------
-
-If you're using [pathogen.vim](https://github.com/tpope/vim-pathogen), just
-copy and paste:
-
-    cd ~/.vim/bundle
-    git clone git://github.com/briandoll/change-inside-surroundings.vim.git
