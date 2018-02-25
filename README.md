@@ -1,12 +1,9 @@
-CS838 data science
-==============
+#CS838 data science
 
-Group Members
-==============================
+##Group Members
 
 * Ankit Maharia
 * Ankit Jain
 * Prerak Mall
 
-Stage 1
---------
+##Stage 1
