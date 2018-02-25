@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+title:  [CS838: Data Science]
+description: [Web interface for CS838 Project Stages]
+show_downloads: ["true"]
