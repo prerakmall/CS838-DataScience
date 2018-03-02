@@ -10,5 +10,5 @@ Group Members
 Stage 1
 -----------------------
 * Dataset: [Political Articles from NY Times](https://gitlab.com/Maharia/StageOne/tree/master/data)
-* [Code](https://gitlab.com/Maharia/StageOne/tree/master)
-* [Report](https://github.com/prerakmall/CS838-DataScience/blob/master/CS838-DataScience.pdf)
+* Repository: [Code](https://gitlab.com/Maharia/StageOne/tree/master)
+* Results: [Report](https://github.com/prerakmall/CS838-DataScience/blob/master/CS838-DataScience.pdf)
