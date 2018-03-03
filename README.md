@@ -9,11 +9,9 @@ Group Members
 
 Stage 1
 -----------------------
-* Dataset: [Set B](https://gitlab.com/Maharia/StageOne/tree/master/data/B)
-
-           [Set I](https://gitlab.com/Maharia/StageOne/tree/master/data/I)
-
-           [Set J](https://gitlab.com/Maharia/StageOne/tree/master/data/J)
+* Dataset: [Set B](https://gitlab.com/Maharia/StageOne/tree/master/data/B)__
+           [Set I](https://gitlab.com/Maharia/StageOne/tree/master/data/I)__
+           [Set J](https://gitlab.com/Maharia/StageOne/tree/master/data/J)__
 * Repository: [Code](https://gitlab.com/Maharia/StageOne/tree/master)
 * Results: [Report](https://github.com/prerakmall/CS838-DataScience/blob/master/CS838-DataScience.pdf)
 * Download: [ZIP](https://gitlab.com/Maharia/StageOne/blob/master/StageOne_Archive.zip)
