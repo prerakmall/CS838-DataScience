@@ -10,7 +10,7 @@ Group Members
 Stage 1
 -----------------------
 * Dataset: [Set B](https://gitlab.com/Maharia/StageOne/tree/master/data/B)
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
            [Set I](https://gitlab.com/Maharia/StageOne/tree/master/data/I)
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
            [Set J](https://gitlab.com/Maharia/StageOne/tree/master/data/J)
