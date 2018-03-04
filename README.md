@@ -15,5 +15,5 @@ Stage 1
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
            [Set J](https://gitlab.com/Maharia/StageOne/tree/master/data/J)
 * Repository: [Code](https://gitlab.com/Maharia/StageOne/tree/master)
-* Results: [Report](https://github.com/prerakmall/CS838-DataScience/blob/master/CS838-DataScience.pdf)
+* Results: [Report](https://gitlab.com/Maharia/StageOne/blob/master/CS838-DataScience.pdf)
 * Download: [ZIP](https://gitlab.com/Maharia/StageOne/repository/master/archive.zip)
