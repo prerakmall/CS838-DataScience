@@ -20,14 +20,9 @@ Stage 1
 
 Stage 2
 -----------------------
-* Code:    [Amazon Scraper]()
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-           [Barnes & Nobles Scraper](https://gitlab.com/prerakmall/Stage-Two/tree/master)
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-           [Web Crawler]()
+* Code:    [Stage-2](https://gitlab.com/ajain64/StageTwo)
 * Results: [Report](https://github.com/prerakmall/CS838-DataScience/blob/master/CS838-DataScience-Stage2.pdf)
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-           [Amazon CSV]()
+           [Amazon CSV](https://gitlab.com/ajain64/StageTwo/blob/master/output/source1(Amazon).csv)
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-           [Barnes & Nobles CSV](https://gitlab.com/prerakmall/Stage-Two/blob/master/source2.csv?expanded=true&viewer=simple)
-* Download: [ZIP]()
+           [Barnes & Nobles CSV](https://gitlab.com/ajain64/StageTwo/blob/master/output/source2(BNN).csv)
