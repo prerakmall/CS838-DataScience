@@ -26,3 +26,4 @@ Stage 2
            [Amazon CSV](https://gitlab.com/ajain64/StageTwo/blob/master/output/source1(Amazon).csv)
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
            [Barnes & Nobles CSV](https://gitlab.com/ajain64/StageTwo/blob/master/output/source2(BNN).csv)
+* Download: [ZIP](https://gitlab.com/ajain64/StageTwo/repository/master/archive.zip)
