@@ -6,6 +6,7 @@ Group Members
 * [Ankit Maharia](https://www.linkedin.com/in/ankitmaharia/)
 * [Ankit Jain](https://www.linkedin.com/in/ajain64/)
 * [Prerak Mall](https://www.linkedin.com/in/prerak-mall-a7982b43/)
+* [Anand Kumar](https://www.linkedin.com/in/anand-kumar-potamsetti-78381761/)
 
 Stage 1
 -----------------------
