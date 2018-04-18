@@ -29,7 +29,7 @@ Stage 2
            [Barnes & Nobles CSV](https://gitlab.com/ajain64/StageTwo/blob/master/output/source2(BNN).csv)
 * Download: [ZIP](https://gitlab.com/ajain64/StageTwo/repository/master/archive.zip)
 
-Stage 2
+Stage 3
 -----------------------
 * Code:    [Stage-3](https://gitlab.com/ajain64/StageThree)
 * Results: [Report]()
