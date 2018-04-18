@@ -32,9 +32,9 @@ Stage 2
 Stage 3
 -----------------------
 * Code:    [Stage-3](https://gitlab.com/ajain64/StageThree)
-* Results: [Report]()
+* Results: [Report](https://gitlab.com/ajain64/StageThree/blob/master/CS838-DataScience-Stage3.pdf)
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
            [Data](https://gitlab.com/ajain64/StageThree/tree/master/output)
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
            [Jupyter Notebook](https://gitlab.com/ajain64/StageThree/blob/master/src/BooksMatching.ipynb)
-* Download: [ZIP]()
+* Download: [ZIP](https://gitlab.com/ajain64/StageThree/-/archive/master/StageThree-master.zip)
