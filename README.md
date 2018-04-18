@@ -28,3 +28,13 @@ Stage 2
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
            [Barnes & Nobles CSV](https://gitlab.com/ajain64/StageTwo/blob/master/output/source2(BNN).csv)
 * Download: [ZIP](https://gitlab.com/ajain64/StageTwo/repository/master/archive.zip)
+
+Stage 2
+-----------------------
+* Code:    [Stage-3](https://gitlab.com/ajain64/StageThree)
+* Results: [Report]()
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           [Data](https://gitlab.com/ajain64/StageThree/tree/master/output)
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           [Jupyter Notebook](https://gitlab.com/ajain64/StageThree/blob/master/src/BooksMatching.ipynb)
+* Download: [ZIP]()
