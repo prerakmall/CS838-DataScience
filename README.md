@@ -42,3 +42,16 @@ Stage 3
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
            [Jupyter Notebook](https://gitlab.com/ajain64/StageThree/blob/master/src/BooksMatching.ipynb)
 * Download: [ZIP](https://gitlab.com/ajain64/StageThree/-/archive/master/StageThree-master.zip)
+
+Stage 4
+-----------------------
+* Code:    [Stage-4](https://gitlab.com/ajain64/Stage_Four)
+* Results: [Report]()
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           [Table E](https://gitlab.com/ajain64/Stage_Four/blob/master/output/Stage4/Table_E.csv)
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           [Matched Tuples](https://gitlab.com/ajain64/Stage_Four/blob/master/output/Stage4/MatchedTuples.csv)
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           [Combiner Python Script](https://gitlab.com/ajain64/Stage_Four/blob/master/src/Combiner.py)
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+* Download: [ZIP]()
