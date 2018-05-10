@@ -46,7 +46,7 @@ Stage 3
 Stage 4
 -----------------------
 * Code:    [Stage-4](https://gitlab.com/ajain64/Stage_Four)
-* Results: [Report]()
+* Results: [Report](https://gitlab.com/ajain64/Stage_Four/blob/master/CS838-DataScience-Stage4.pdf)
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
            [Table E](https://gitlab.com/ajain64/Stage_Four/blob/master/output/Stage4/Table_E.csv)
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,4 +54,4 @@ Stage 4
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
            [Combiner Python Script](https://gitlab.com/ajain64/Stage_Four/blob/master/src/Combiner.py)
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-* Download: [ZIP]()
+* Download: [ZIP](https://gitlab.com/ajain64/Stage_Four/-/archive/master/Stage_Four-master.zip)
